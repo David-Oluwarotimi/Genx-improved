@@ -91,7 +91,7 @@ const PrivacyPolicy: React.FC = () => {
           ))}
         </div>
 
-        <p className="text-gray-500 text-sm mt-6 text-blue-500 text-center">
+        <p className="text-sm mt-6 text-blue-500 text-center">
           © 2024 Genx-Trde. All rights reserved.
         </p>
       </div>
